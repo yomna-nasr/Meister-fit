@@ -3,6 +3,7 @@
 > Extracted from the Meister Fit Graduation Project Thesis  
 > El Shorouk Academy · Higher Institute of Computers and Information Technology  
 > Business Information Systems Department · Academic Year 2025–2026
+> AI Engineering Lead: Yomna Nasr
 
 ---
 
